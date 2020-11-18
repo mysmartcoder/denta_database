@@ -1,0 +1,13 @@
+.edit-click.ml-auto.location {
+    display: inline-block;
+    width: 33%;
+    margin-bottom: 30px;
+}
+ul.profile-link-list.location {
+    float: right;
+    margin-right: 20%;
+}
+.website_para {
+    display: inline-block;
+    width: 400px;
+}

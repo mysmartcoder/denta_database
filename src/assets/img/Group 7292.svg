@@ -1,0 +1,20 @@
+<svg id="Group_7292" data-name="Group 7292" xmlns="http://www.w3.org/2000/svg" width="48.688" height="48.688" viewBox="0 0 48.688 48.688">
+  <g id="Ellipse_1" data-name="Ellipse 1" fill="#fff" stroke="#7540ee" stroke-width="2">
+    <circle cx="24.344" cy="24.344" r="24.344" stroke="none"/>
+    <circle cx="24.344" cy="24.344" r="23.344" fill="none"/>
+  </g>
+  <g id="Group_4" data-name="Group 4" transform="translate(11.376 13.651)">
+    <g id="Group_1" data-name="Group 1" transform="translate(0 0)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="25.936" height="6.825" fill="#15cdcb"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="7.735" height="3.64" transform="translate(1.82 1.365)" fill="#763eef"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(0 7.28)">
+      <rect id="Rectangle_2-2" data-name="Rectangle 2" width="25.936" height="6.825" transform="translate(0 0)" fill="#16b2ae"/>
+      <rect id="Rectangle_3-2" data-name="Rectangle 3" width="7.735" height="3.64" transform="translate(1.82 1.82)" fill="#763eef"/>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(0 15.016)">
+      <rect id="Rectangle_2-3" data-name="Rectangle 2" width="25.936" height="6.825" transform="translate(0 0)" fill="#15a09c"/>
+      <rect id="Rectangle_3-3" data-name="Rectangle 3" width="7.735" height="3.64" transform="translate(1.82 1.82)" fill="#763eef"/>
+    </g>
+  </g>
+</svg>

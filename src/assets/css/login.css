@@ -1,0 +1,10 @@
+.body-background {
+    background-image: url("../img/sign-in-background.svg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.error {
+    padding-left: 10px;
+    color: #ff0000;
+}
